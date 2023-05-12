@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: webProjectWithSpring-6
+Implementation-Version: 0.001
+Created-By: Maven Integration for Eclipse
+
